@@ -1,0 +1,6 @@
+@RakbnyMa_aak_HostAddress = http://localhost:5118
+
+GET {{RakbnyMa_aak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
